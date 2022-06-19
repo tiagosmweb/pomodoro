@@ -61,7 +61,7 @@ class Cronometro extends StatelessWidget {
                     child: CronometroBotao(
                       texto: 'Reiniciar',
                       icone: Icons.refresh,
-                      click: store.reinciar,
+                      click: store.reiniciar,
                     ),
                   ),
                 ],
